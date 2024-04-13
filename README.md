@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-hi
+🧪 R&D Intern for Sandia National Labs (2023-2024)
+🔬 R&D Intern for Los Alamos National Labs (2022-2023)
+👨‍💻 Bachelors of Computer Science at The University of New Mexico
+📔 Pursing a Masters in Computer Science at the University of New Mexico
+💼 My tech stack includes: Java, C, Python, C##, and JavaScript.
+
 
 <!--
 **jcvanly/jcvanly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
