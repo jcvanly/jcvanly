@@ -1,16 +1,25 @@
-### Hi there 👋
 
-🧪 R&D Intern for Sandia National Labs (2023-2024) <br>
+# Hi there! 👋
 
-🔬 R&D Intern for Los Alamos National Labs (2022-2023) <br>
+I'm a Computer Science PhD student at the **University of New Mexico**, with interests in cybersecurity, software engineering, and building useful technology.
 
-👨‍💻 Bachelors of Computer Science at The University of New Mexico <br>
+### 🎓 Education
+- **PhD in Computer Science** | University of New Mexico (In Progress)
+- **M.S. in Computer Science** | University of New Mexico
+- **B.S. in Computer Science** | University of New Mexico
 
-📔 Pursing a Masters in Computer Science at the University of New Mexico <br>
+### 💼 Experience
+- **R&D Intern** | Sandia National Laboratories (2023–2024)
+- **R&D Intern** | Los Alamos National Laboratory (2022–2023)
 
-💼 My tech stack includes: Java, C, Python, C##, and JavaScript <br>
+### 🛠️ Tech Stack
+`Java` `C` `Python` `C#` `JavaScript`
 
-🌱 I'm currently learning more about Cyber Security!
+### 🚀 Current Projects
+- 🛰️ **Satellite Security** | Researching vulnerabilities and trust boundaries in spacecraft flight software.
+- 🏜️ **[ZiaBound](https://ziabound.com)** | Building an interactive platform for discovering and exploring New Mexico.
+
+
 
 
 <!--
